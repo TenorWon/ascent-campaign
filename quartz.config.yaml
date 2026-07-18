@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: tenorwon.github.io/quartz
+  baseUrl: tenorwon.github.io
   ignorePatterns:
     - private
     - templates
