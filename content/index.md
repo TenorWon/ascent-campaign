@@ -1,5 +1,5 @@
 ---
-Title: Incoming Message
+Title: Incoming Transmission
 ---
 _A message appears, encoded in strange symbols you have never seen before. A corresponding line of text appears below it, this time in a language you can read._
 
