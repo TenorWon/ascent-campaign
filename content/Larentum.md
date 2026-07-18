@@ -1,8 +1,3 @@
----
-publish: true
-permalink: /Larentum.md
----
-
 ```
 "Yikes. You're a long way from home, aren't you? Or am I?"
 ```
