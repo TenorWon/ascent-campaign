@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: ascent.campaign.github.io/quartz
+  baseUrl: tenorwon.github.io/quartz
   ignorePatterns:
     - private
     - templates
