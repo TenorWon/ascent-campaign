@@ -1,25 +1,9 @@
----
-title: Welcome to My Digital Garden 🪴
-titleIcon: home
-aliases:
-  - home
-  - homepage
-tags:
-  - hub
----
+_A message appears, encoded in strange symbols you have never seen before. A corresponding line of text appears below it, this time in a language you can read._
 
-# Welcome!
-
-This is the homepage of my personal knowledge base, powered by [Quartz](https://quartz.jzhao.xyz/) and synced directly from my [Obsidian](https://obsidian.md/) vault. 
-
-## 🗺️ Navigation
-
-Here are some of the main entry points to my notes:
-
-- [[Projects]]: What I am currently building.
-- [[Reading List]]: Books, articles, and papers I've consumed.
-- [[MOC - Permanent Notes]]: My core atomic thoughts.
-
-## 🔄 Recent Highlights
-
-You can write whatever you want here! Quartz will automatically generate a backlink map and a graph view for this page in the sidebar layouts.
+```
+"I think this will work? I'm not even sure if I want it to. But it may be for the best. 
+I have made it my burden to inform those of the past so that they may steer a different 
+course. I'm quite unsure if the one you've arrived at is the one you'd prefer. Maybe you 
+can do better."
+—Illius Prim
+```
