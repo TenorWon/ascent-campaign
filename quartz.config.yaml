@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: tenorwon.github.io
+  baseUrl: tenorwon.github.io/ascent-campaign
   ignorePatterns:
     - private
     - templates
