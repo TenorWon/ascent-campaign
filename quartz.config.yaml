@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Depleted Uranium
-      body: Orbitron
+      header: Rubik Glitch
+      body: Lilex
       code: IBM Plex Mono
     colors:
       lightMode:
