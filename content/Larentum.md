@@ -24,7 +24,7 @@ For thousands of years, conflict overtook Larentum. In the period known as "[[Th
 
 Many civilizations actually fell at the height of The Before Times, around 4735 PET. Resource use destroyed planets and populations, while wars wiped others out in a more efficient fashion. The peoples of Larentum had spent thousands of years using and abusing their time, and now whole worlds had seen the consequences of such actions. Finally, a coalition of worlds decided they had seen enough.
 
-It began with [[The Kingdom of the Sun]], which was long established by this point and more than ready to intervene and offer aid. However, they were met with only resistance, as the leaders of the industrial and metropolitan worlds whose populations suffered the most united in defense of their resources and the power they held over their suffering populations. Deciding this could not be allowed to continue, the Kingdom turned to its neutral allies for help. Thus began the [[The War for Liberation|war for liberation]].
+It began with [[The Kingdom of the Sun]], which was long established by this point and more than ready to intervene and offer aid. However, they were met with only resistance, as the leaders of the industrial and metropolitan worlds whose populations suffered the most united in defense of their resources and the power they held over their suffering populations. Deciding this could not be allowed to continue, the Kingdom turned to its neutral allies for help. Thus began the [[The War for Liberation|War for Liberation]].
 
 ### [[The War for Liberation]]
 
