@@ -24,7 +24,7 @@ For thousands of years, conflict overtook Larentum. In the period known as "[[Th
 
 Many civilizations actually fell at the height of The Before Times, around 4735 PET. Resource use destroyed planets and populations, while wars wiped others out in a more efficient fashion. The peoples of Larentum had spent thousands of years using and abusing their time, and now whole worlds had seen the consequences of such actions. Finally, a coalition of worlds decided they had seen enough.
 
-It began with [[The Kingdom of the Sun]], which was long established by this point and more than ready to intervene and offer aid. However, they were met with only resistance, as the leaders of the industrial and metropolitan worlds whose populations suffered the most united in defense of their resources and the power they held over their suffering populations. Deciding this could not be allowed to continue, the Kingdom turned to its neutral allies for help. Thus began [[The War for Liberation]].
+It began with [[The Kingdom of the Sun]], which was long established by this point and more than ready to intervene and offer aid. However, they were met with only resistance, as the leaders of the industrial and metropolitan worlds whose populations suffered the most united in defense of their resources and the power they held over their suffering populations. Deciding this could not be allowed to continue, the Kingdom turned to its neutral allies for help. Thus began the [[The War for Liberation|war for liberation]].
 
 ### [[The War for Liberation]]
 
@@ -32,7 +32,7 @@ Evenly matched against the [[Final Systems]], [[The Kingdom of the Sun]] joined 
 
 A surrender followed very shortly after, but very few members of the old regime had the will to go on after losing. They had either given their lives to defend what they feared losing, or taken them after learning what had transpired at the end of it all.
 
-When all was said and done, the people that had been made to suffer were lifted back up and helped to thrive again. After centuries of worrying for the next generation's survival, new technology and intergalactic collaboration brought many systems back from the brink in just a few short decades. In light of this, some of the neutral systems that had fought alongside the royal military during the war chose to continue to shepherd the newly burgeoning governments via a new alliance—[[The Galactic Union]].
+When all was said and done, the people that had been made to suffer were lifted back up and helped to thrive again. After centuries of worrying for the next generation's survival, new technology and intergalactic collaboration brought many systems back from the brink in just a few short decades. In light of this, some of the neutral systems that had fought alongside the royal military during the war chose to continue to shepherd the newly burgeoning governments via a new alliance—the [[The Galactic Union|Galactic Union]].
 
 ### An Era of Peace
 
