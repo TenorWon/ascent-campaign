@@ -26,9 +26,9 @@ Many civilizations actually fell at the height of The Before Times, around 4735 
 
 It began with [[The Kingdom of the Sun]], which was long established by this point and more than ready to intervene and offer aid. However, they were met with only resistance, as the leaders of the industrial and metropolitan worlds whose populations suffered the most united in defense of their resources and the power they held over their suffering populations. Deciding this could not be allowed to continue, the Kingdom turned to its neutral allies for help. Thus began the [[The War for Liberation|War for Liberation]].
 
-### [[The War for Liberation]]
+### The War for Liberation
 
-Evenly matched against the [[Final Systems]], [[The Kingdom of the Sun]] joined with its neutral allies across the galaxy in 4772 to gain the edge and rescue the people of the [[Final Systems]] before resources were truly gone. The war waged for nearly half a century, but the final major victory was finally struck by royal forces in 4818 when the downtrodden citizens of [[Abrilos]] threw off their bonds and created an opening for the allied forces to eliminate the tyrannical heart of the Final allies.
+Evenly matched against the [[Final Systems]], [[The Kingdom of the Sun]] joined with its neutral allies across the galaxy in 4772 to gain the edge and rescue the people of the Final Systems before resources were truly gone. The war waged for nearly half a century, but the final major victory was finally struck by royal forces in 4818 when the downtrodden citizens of [[Abrilos]] threw off their bonds and created an opening for the allied forces to eliminate the tyrannical heart of the Final allies.
 
 A surrender followed very shortly after, but very few members of the old regime had the will to go on after losing. They had either given their lives to defend what they feared losing, or taken them after learning what had transpired at the end of it all.
 
@@ -38,6 +38,6 @@ When all was said and done, the people that had been made to suffer were lifted 
 
 Following the rebuilding efforts that began in the 4820s, a galaxy-wide enforcement of peace was upheld, and still is to this day. Not only is war completely illegal, but any attempt to stifle diplomacy from one planet to another is extremely frowned upon. Even crime was supposedly "taught out" of society, though it obviously remained along the fringes and eventually found it's way back.
 
-This era of peace has gone on for centuries, now. For many, it is all they can remember. For most, it is all their grandparents know of. That is especially true for the [[Humans]], who didn't arrive in Larentum until the year 5206.
+This era of peace has gone on for centuries, now. For many, it is all they can remember. For most, it is all their grandparents know of. That is especially true for the [[Human|Humans]], who didn't arrive in Larentum until the year 5206.
 
 The year this is being recorded is 5833 PET. Peace remains—for now. But tensions have risen to an unprecedented place. Perhaps it is the centuries of waiting for a shout in the silence. Perhaps some are merely less accustomed to the quiet.
