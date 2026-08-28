@@ -18,7 +18,7 @@ Finding that each solar system, planet, and moon held resources unlike all the o
 
 Galactization—first observed in the year 2364 PET (Post Evolutionary Time)—is the exchange between peoples and governments of celestial bodies across the Larentum galaxy. The most well known point of exchange is, notably, the [[Auvacian]] faith, but the effects of this phenomenon are still being studied today.
 
-### [[The Before Times]]
+### The Before Times
 
 For thousands of years, conflict overtook Larentum. In the period known as "[[The Before Times]]," the people of the galaxy were still very much trying to understand their places in the order of things. As time went on, people became greedy, or restless, or any number of other things that launched them and their kin into conflict with either each other or another group from across the void.
 
