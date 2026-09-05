@@ -28,7 +28,7 @@ It began with [[The Kingdom of the Sun]], which was long established by this poi
 
 ### The War for Liberation
 
-Evenly matched against the [[Final Systems]], [[The Kingdom of the Sun]] joined with its neutral allies across the galaxy in 4772 to gain the edge and rescue the people of the Final Systems before resources were truly gone. The war waged for nearly half a century, but the final major victory was finally struck by royal forces in 4818 when the downtrodden citizens of [[Abrilos]] threw off their bonds and created an opening for the allied forces to eliminate the tyrannical heart of the Final allies.
+Evenly matched against the [[Final Systems]], [[The Kingdom of the Sun]] joined with its neutral allies across the galaxy in 4772 to gain the edge and rescue the people of the Final Systems before resources were truly gone. The war waged for nearly half a century, but the final major victory was finally struck by royal forces in 4818 when the downtrodden citizens of [[Velastos]] united to throw off their bonds and create an opening for the allied forces to eliminate the tyrannical heart of the Final allies.
 
 A surrender followed very shortly after, but very few members of the old regime had the will to go on after losing. They had either given their lives to defend what they feared losing, or taken them after learning what had transpired at the end of it all.
 

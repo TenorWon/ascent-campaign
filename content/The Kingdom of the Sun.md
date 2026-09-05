@@ -19,3 +19,14 @@ Royal society revolves almost entirely around the worship of Auvac. There is a [
 No figure is known better for this task than the [[Willbearer]], who assists the Sunbound Monarch in Vestim by giving voice to Auvac Themself. Despite the name of "monarch," both of these devoutly religious positions are chosen by rigorous political testing and ritualistic induction. The Sunbound is mainly labeled as a monarch because of Mesokarr's history as a monarchy.
 
 There has always been a sense of duty to the Kingdom, especially when paired with one's religious duty. This was taken a step further when [[Gifted]] were normalized into society. After the establishment of the first [[academy]] in Vestim, the precedent was set for parents of Gifted children to send them straight to academies for training and honing of their abilities immediately after completion of primary school. Since most royal scholars and clergy agreed that Gifts were abilities given by Auvac Themself, which was quite literally where the name for the condition originated from, there were few people who opposed this mandate. From these academies, the royal workforce was and continues to be strengthened as graduates are drafted into the next step of their life—whether that be as a smelt worker in a [[Virawan]] forge, a healer for a high level hospital, or even a disciple of the royal military.
+
+### Aligned Systems
+
+- [[Mesokarran]] (Capital)
+- [[Gilamar|Gila]]
+- [[Boullare|Boullaran]]
+- [[Araantis|Araanti]]
+- [[Alagriian]]
+- [[Virawan|Virawani]]
+- [[Borastian]]
+- [[Ettoran]]
