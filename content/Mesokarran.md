@@ -5,7 +5,7 @@
 
 ### Culture
 
-Mesokarrans are known as a people of faith—but that does not apply simply to the worship of [[Auvac]], though it is extremely common on [[Mesokarr]]. The people devote themselves wholly to a cause. Rarely will you find a Mesokarran willing to take half measures to achieve their goals. These practices have been handed down by their ancestors, who struggled against the heat of the sun for centuries. The old wisdom goes, "Those who shade half their body still burn." Technological advancement greatly increased survival rate over time, but this mantra lives on in hearts and minds.
+Mesokarrans are known as a people of faith—but that does not apply simply to the worship of [[Auvacianism|Auvac]], though it is extremely common on [[Mesokarr]]. The people devote themselves wholly to a cause. Rarely will you find a Mesokarran willing to take half measures to achieve their goals. These practices have been handed down by their ancestors, who struggled against the heat of the sun for centuries. The old wisdom goes, "Those who shade half their body still burn." Technological advancement greatly increased survival rate over time, but this mantra lives on in hearts and minds.
 
 With the dawn of the first atmospheric conditioning technology came something of an about face for Mesokarran society, as the heat of the sun no longer oppressed the people below so constantly. Protective architecture was torn down in celebration, outdoor areas built or opened up, and people began to truly embrace the sun. This lasted for some centuries, allowing the people of Mesokarr to adjust to the change before Auvacianism arrived.
 

@@ -13,7 +13,7 @@ They called themselves Humans. As royal forces finally came to aid the Alagriian
 
 Three more ships appeared at the site on Alagrii in the next few days, and before long, the Kingdom of the Sun had created and began administering vaccines for the illness the Humans had brought with them. Nearly 200,000 people now found themselves displaced from their home, which historians continue to struggle to find information on. The "arks," as they were called, were made primarily for transporting the last of a dying species in massive number. They lacked sophisticated technology like flight logs, cosmic mapping, etc. It also seemed that the Humans were technologically archaic compared to nearly every sentient species in the Larentum galaxy.
 
-For the next six centuries, Humans have integrated at varying rates into galactic society. Some still remember what their home solar system was like, while many grow up never hearing the names of planets like [[Earth]] of [[Mars]].
+For the next six centuries, Humans have integrated at varying rates into galactic society. Some still remember what their home solar system was like, while many grow up never hearing the names of planets like [[Earth]] or [[Mars]].
 
 ### Culture
 

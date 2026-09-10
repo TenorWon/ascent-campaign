@@ -16,7 +16,7 @@ At the end of this time, sentient organisms began to form societal organizations
 
 Finding that each solar system, planet, and moon held resources unlike all the others, many people who set out amongst the stars found it best to collaborate. These conditional agreements began as tentative alliances, but evolved over time into coalitions of likeminded governments. Over time, these groups coalesced into governing bodies themselves, until intergalactic interaction was so commonplace that many began to feel as if they could not function without it.
 
-Galactization—first observed in the year 2364 PET (Post Evolutionary Time)—is the exchange between peoples and governments of celestial bodies across the Larentum galaxy. The most well known point of exchange is, notably, the [[Auvacian]] faith, but the effects of this phenomenon are still being studied today.
+Galactization—first observed in the year 2364 PET (Post Evolutionary Time)—is the exchange between peoples and governments of celestial bodies across the Larentum galaxy. The most well known point of exchange is, notably, the [[Auvacianism|Auvacian]] faith, but the effects of this phenomenon are still being studied today.
 
 ### The Before Times
 
