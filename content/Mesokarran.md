@@ -9,7 +9,7 @@ Mesokarrans are known as a people of faith—but that does not apply simply to t
 
 With the dawn of the first atmospheric conditioning technology came something of an about face for Mesokarran society, as the heat of the sun no longer oppressed the people below so constantly. Protective architecture was torn down in celebration, outdoor areas built or opened up, and people began to truly embrace the sun. This lasted for some centuries, allowing the people of Mesokarr to adjust to the change before Auvacianism arrived.
 
-It is unclear where exactly the Auvacian faith began, but it is clearly ingrained into Mesokarran culture. Worship of the sun makes Mesokarr the perfect home for the faith, and the people's attitude toward pursuing tasks to the best of their ability has made their zeal especially formidable. It was a Mesokarran [[Sunbound Monarch]] who led the charge against the [[Final Systems]] in the [[The War for Liberation|War for Liberation]], and it is a proud species now who continues to uphold their great Kingdom while basking in an era of peace.
+It is unclear where exactly the Auvacian faith began, but it is clearly ingrained into Mesokarran culture. Worship of the sun makes Mesokarr the perfect home for the faith, and the people's attitude toward pursuing tasks to the best of their ability has made their zeal especially formidable. It was a Mesokarran [[Auvacianism#Auvac and Mortals|Sunbound Monarch]] who led the charge against the [[Final Systems]] in the [[The War for Liberation|War for Liberation]], and it is a proud species now who continues to uphold their great Kingdom while basking in an era of peace.
 
 ### Biology
 

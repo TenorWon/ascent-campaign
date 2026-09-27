@@ -10,7 +10,7 @@ Tythan culture is controversial in some parts of the galaxy, and very interestin
 
 Whether or not the spiritual abilities of the Tythans are to be believed is hotly debated among scholars and many others, but there is little evidence other than the odd brain scan showing extraordinary function, the likes of which remain inconclusive as they have not been correlated with anything else. However, there are numerous personal accounts of someone speaking with a deceased loved one or gaining information they could not possibly have gotten any other way.
 
-Aside from the spiritual aspects of their society, the people of Tythe have undergone much stress in their survival against other creatures on their planet. Not only this, but there was a period of civil war that took a great many lives, far before the planet ever [[Larentum#Galactization|galactized]]. Because of this, Tythan tradition includes quite a bit of self defense practice. When they become of age, they receive a tattoo that signifies their ability to defend themselves, and that tattoo is to be worn forever.
+Aside from the spiritual aspects of their society, the people of [[Tythe]] have undergone much stress in their survival against other creatures on their planet. Not only this, but there was a period of civil war that took a great many lives, far before the planet ever [[Larentum#Galactization|galactized]]. Because of this, Tythan tradition includes quite a bit of self defense practice. When they become of age, they receive a tattoo that signifies their ability to defend themselves, and that tattoo is to be worn forever.
 
 ### Biology
 
