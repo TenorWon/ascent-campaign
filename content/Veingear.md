@@ -1,0 +1,1 @@
+Tools, weapons, and armor made of [[emparite]]. Standard throughout the galaxy for offering Gifted individuals equipment capable of operating as an extension of their abilities, allowing them to perform tasks better and more efficiently.

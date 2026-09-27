@@ -38,6 +38,6 @@ When all was said and done, the people that had been made to suffer were lifted 
 
 Following the rebuilding efforts that began in the 4820s, a galaxy-wide enforcement of peace was upheld, and still is to this day. Not only is war completely illegal, but any attempt to stifle diplomacy from one planet to another is extremely frowned upon. Even crime was supposedly "taught out" of society, though it obviously remained along the fringes and eventually found it's way back.
 
-This era of peace has gone on for centuries, now. For many, it is all they can remember. For most, it is all their grandparents know of. That is especially true for the [[Human|Humans]], who didn't arrive in Larentum until the year 5206.
+This era of peace has gone on for centuries now, especially with the support of the [[Gifted]] throughout the galaxy. For many, it is all they can remember. For most, it is all their grandparents know of. That is especially true for the [[Human|Humans]], who didn't arrive in Larentum until the year 5206.
 
 The year this is being recorded is 5833 PET. Peace remains—for now. But tensions have risen to an unprecedented place. Perhaps it is the centuries of waiting for a shout in the silence. Perhaps some are merely less accustomed to the quiet.

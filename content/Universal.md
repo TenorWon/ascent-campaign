@@ -1,0 +1,1 @@
+The language of [[Larentum]] as a whole. Developed over time during the beginnings of the [[Larentum#Galactization|galactization]] period to be accessible to all species. Similarly to the standardization of time units like days, months, years, etc., the universal language was created in an effort to allow all species of the galaxy to converse more easily.

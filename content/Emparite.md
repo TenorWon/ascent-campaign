@@ -1,0 +1,1 @@
+A golden metal of high value that can be found in large quantities on only a few known astral bodies. It is known best for its unique capability for channeling [[Gifted]] energy. Its most common use is as the primary material in [[veingear]].

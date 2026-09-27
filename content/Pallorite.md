@@ -1,0 +1,1 @@
+A rare metal that is highly valued for its unique property of drawing Gifted energy into itself and storing it, as opposed to [[emparite]], which is more eager to channel the energy through itself. Its most common use is as a way to dampen the powers of Gifted individuals, normally as a means of safety or security.
