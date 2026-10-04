@@ -4,7 +4,7 @@ Gifts are normally given, no? But by whom, I wonder.
 
 ### The Incursion
 
-For millennia, the capabilities of a person stopped at what effort one devoted to one's own mind and body. However, in 4995 PET, on the 13th day of the 5th standard month of the galactic year, that changed forever when events of mass chaos and destruction broke out in most all major cities across every highly populated planet in [[Larentum]]. Authorities responded to what they thought were terrorist attacks, engaging threats in offices, schools, and city streets. What they found, however, were not terrorists.
+For millennia, the capabilities of a person stopped at what effort one devoted to one's own mind and body. However, in 5319 PET, on the 13th day of the 5th standard month of the galactic year, that changed forever when events of mass chaos and destruction broke out in most all major cities across every highly populated planet in [[Larentum]]. Authorities responded to what they thought were terrorist attacks, engaging threats in offices, schools, and city streets. What they found, however, were not terrorists.
 
 At every site, what first responders expected to be terrorists turned out to simply be one or more civilians in states of great panic. The conditions surrounding each person varied greatly—from swirling cyclones, to raging wildfires, to massive blackouts. Many of these situations did result in casualties, including the perpetrators in some cases. However for most of the events, authorities were able to calm the civilians at the center of the supernatural conditions, which seemed to dissipate in kind.
 
